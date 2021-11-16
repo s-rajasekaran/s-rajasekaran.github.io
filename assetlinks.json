@@ -10,4 +10,36 @@ permalink: .well-known/assetlinks.json
     "sha256_cert_fingerprints":
     ["3B:A1:9B:0E:44:97:CD:9A:EE:48:A2:E5:92:79:31:A5:68:1B:AD:ED:0B:74:4C:BF:F0:BF:67:C2:D3:FA:C7:18"]
   }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.oaknorth.dev.oaknorthmobilebanking",
+    "sha256_cert_fingerprints":
+    ["50:8e:ce:42:52:3a:a2:e0:8c:93:0f:e9:4f:3e:81:be:f1:23:81:05:61:9c:f4:56:4f:4c:6f:16:4d:a1:c0:06"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.oaknorth.prelive.oaknorthmobilebanking.debug",
+    "sha256_cert_fingerprints":
+    ["3B:A1:9B:0E:44:97:CD:9A:EE:48:A2:E5:92:79:31:A5:68:1B:AD:ED:0B:74:4C:BF:F0:BF:67:C2:D3:FA:C7:18"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.oaknorth.prelive.oaknorthmobilebanking",
+    "sha256_cert_fingerprints":
+    ["50:8e:ce:42:52:3a:a2:e0:8c:93:0f:e9:4f:3e:81:be:f1:23:81:05:61:9c:f4:56:4f:4c:6f:16:4d:a1:c0:06"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.oaknorth.oaknorthmobilebanking",
+    "sha256_cert_fingerprints":
+    ["50:8e:ce:42:52:3a:a2:e0:8c:93:0f:e9:4f:3e:81:be:f1:23:81:05:61:9c:f4:56:4f:4c:6f:16:4d:a1:c0:06"]
+  }
 }]
