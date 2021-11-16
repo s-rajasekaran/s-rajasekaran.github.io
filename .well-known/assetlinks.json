@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.oaknorth.dev.oaknorthmobilebanking.debug",
+    "sha256_cert_fingerprints":
+    ["3B:A1:9B:0E:44:97:CD:9A:EE:48:A2:E5:92:79:31:A5:68:1B:AD:ED:0B:74:4C:BF:F0:BF:67:C2:D3:FA:C7:18"]
+  }
+}]
